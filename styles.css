@@ -19,7 +19,7 @@ body {
 
 /* Estilos del encabezado hero */
 header.hero {
-    background: url("imagenes/imagen-hero.jpg"); /* Imagen de fondo del encabezado */
+    background: url("imagenes/imagen-hero.JPG"); /* Imagen de fondo del encabezado */
     background-size: cover;
     background-position: center top; /* Posición de la imagen de fondo */
     background-attachment: fixed;
